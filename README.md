@@ -11,7 +11,8 @@ Here are some of my university projects:
 - [**MaskArchitectureAnomaly2_CourseProject**](https://github.com/aliceniosi1/MaskArchitectureAnomaly2_CourseProject.git) – Anomaly segmentation course project  
 - [**GOLEM**](https://github.com/aliceniosi1/GOLEM.git) – Robot learning course project  
 - [**ruggine**](https://github.com/aliceniosi1/ruggine.git) – Software development project  
-- [**stuff_happens**](https://github.com/aliceniosi1/stuff_happens.git) – Web application project  
+- [**stuff_happens**](https://github.com/aliceniosi1/stuff_happens.git) – Web application project
+- [**geocontrol**](https://github.com/aliceniosi1/geocontrol.git) - Software development course project
 
 ## 💡 Skills & Technologies
 

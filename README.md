@@ -22,4 +22,4 @@ Here are some of my university projects:
 ## 📫 Contact
 
 **Email:** [aliceniosi5@gmail.com](mailto:aliceniosi5@gmail.com)  
-**LinkedIn:** add-your-linkedin-link-here
+**LinkedIn:** [Alice Niosi](https://www.linkedin.com/in/alice-niosi)

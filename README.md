@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alice Niosi
 
-🎓 Master's student in Computer Engineering at the Politecnico di Torino  
+🎓 Master's student in Computer Engineering at Politecnico di Torino  
 🤖 Specializing in Artificial Intelligence & Data Analytics  
 💻 Interested in machine learning, robotics, and software development  
 

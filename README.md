@@ -13,6 +13,7 @@ Here are some of my university projects:
 - [**ruggine**](https://github.com/aliceniosi1/ruggine.git) – Software development project  
 - [**stuff_happens**](https://github.com/aliceniosi1/stuff_happens.git) – Web application project
 - [**geocontrol**](https://github.com/aliceniosi1/geocontrol.git) - Software development course project
+- [**Polyglot application**](https://github.com/ADMM2026/group06_s339224_s339225_s337191.git) - Advanced data modeling and management course project
 
 ## 💡 Skills & Technologies
 
